@@ -1,0 +1,14 @@
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\bin\Debug\netcoreapp2.2\TestTaskBackEnd.deps.json
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\bin\Debug\netcoreapp2.2\TestTaskBackEnd.runtimeconfig.json
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\bin\Debug\netcoreapp2.2\TestTaskBackEnd.runtimeconfig.dev.json
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\bin\Debug\netcoreapp2.2\TestTaskBackEnd.dll
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.csprojAssemblyReference.cache
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.RazorAssemblyInfo.cache
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.RazorAssemblyInfo.cs
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.AssemblyInfoInputs.cache
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.AssemblyInfo.cs
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\bin\Debug\netcoreapp2.2\TestTaskBackEnd.pdb
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.dll
+C:\Users\Vivo\source\repos\TestTaskBackEnd\TestTaskBackEnd\obj\Debug\netcoreapp2.2\TestTaskBackEnd.pdb
